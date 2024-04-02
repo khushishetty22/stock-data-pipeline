@@ -1,0 +1,1918 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>AAPL_annual_balance-sheet.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2009" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2008" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2007" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2006" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2005" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2004" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2003" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2002" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2001" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/2000" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1999" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1998" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1997" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1996" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1995" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1994" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1993" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1992" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1991" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1990" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1989" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1988" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1987" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1986" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="9/30/1985" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>AMZN_annual_balance-sheet.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2009" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2008" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2007" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2006" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2005" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2004" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2003" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2002" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2001" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2000" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/1999" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/1998" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/1997" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/1996" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>META_annual_balance-sheet.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="12/31/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>MSFT_annual_balance-sheet.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2009" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2008" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2007" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2006" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2005" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2004" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2003" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2002" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2001" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/2000" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1999" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1998" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1997" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1996" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1995" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1994" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1993" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1992" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1991" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1990" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1989" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1988" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1987" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="06/30/1986" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="522" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_16368_ffd3c3c5704f4745a3f3e68fd5e3f748_\Engine_16368_ada5552c0fb7f440ab32d74bf8fa5c0f~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="198" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="9/30/2023" selected="True" />
+            <Field field="9/30/2022" selected="True" />
+            <Field field="9/30/2021" selected="True" />
+            <Field field="9/30/2020" selected="True" />
+            <Field field="9/30/2019" selected="True" />
+            <Field field="9/30/2018" selected="True" />
+            <Field field="9/30/2017" selected="True" />
+            <Field field="9/30/2016" selected="True" />
+            <Field field="9/30/2015" selected="True" />
+            <Field field="9/30/2014" selected="True" />
+            <Field field="9/30/2013" selected="True" />
+            <Field field="9/30/2012" selected="True" />
+            <Field field="9/30/2011" selected="True" />
+            <Field field="9/30/2010" selected="True" />
+            <Field field="9/30/2009" selected="True" />
+            <Field field="9/30/2008" selected="True" />
+            <Field field="9/30/2007" selected="True" />
+            <Field field="9/30/2006" selected="True" />
+            <Field field="9/30/2005" selected="True" />
+            <Field field="9/30/2004" selected="True" />
+            <Field field="9/30/2003" selected="True" />
+            <Field field="9/30/2002" selected="True" />
+            <Field field="9/30/2001" selected="True" />
+            <Field field="9/30/2000" selected="True" />
+            <Field field="9/30/1999" selected="True" />
+            <Field field="9/30/1998" selected="True" />
+            <Field field="9/30/1997" selected="True" />
+            <Field field="9/30/1996" selected="True" />
+            <Field field="9/30/1995" selected="True" />
+            <Field field="9/30/1994" selected="True" />
+            <Field field="9/30/1993" selected="True" />
+            <Field field="9/30/1992" selected="True" />
+            <Field field="9/30/1991" selected="True" />
+            <Field field="9/30/1990" selected="True" />
+            <Field field="9/30/1989" selected="True" />
+            <Field field="9/30/1988" selected="True" />
+            <Field field="9/30/1987" selected="True" />
+            <Field field="9/30/1986" selected="True" />
+            <Field field="9/30/1985" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="282" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="9" source="CrossTab:Group:First:" type="String" />
+            <Field name="AccountsPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccumulatedDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AdditionalPaidInCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AllowanceForDoubtfulAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AvailableForSaleSecurities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="BuildingsAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CapitalStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashAndCashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashCashEquivalentsAndShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashFinancial" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommercialPaper" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStockEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredTaxesAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentNotesPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="FinishedGoods" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ForeignCurrencyTranslationAdjustments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GainsLossesNotAffectingRetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Goodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GoodwillAndOtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="IncomeTaxPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Inventory" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestedCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestmentinFinancialAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestmentsAndAdvances" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LandAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Leases" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="MachineryFurnitureEquipment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetTangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredTaxesAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredTaxesLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentPrepaidAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OrdinarySharesNumber" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentBorrowings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherEquityAdjustments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherEquityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherProperties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherReceivables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Payables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PayablesAndAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PensionandOtherPostRetirementBenefitPlansCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PreferredStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PreferredStockEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PrepaidAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Properties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="RawMaterials" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Receivables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="RetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ShareIssued" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TangibleBookValue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalCapitalization" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalEquityGrossMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalTaxPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TradeandOtherPayablesNonCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TreasurySharesNumber" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="WorkingCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+            <Field name="WorkInProcess" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="198" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="12/31/2023" selected="True" />
+            <Field field="12/31/2022" selected="True" />
+            <Field field="12/31/2021" selected="True" />
+            <Field field="12/31/2020" selected="True" />
+            <Field field="12/31/2019" selected="True" />
+            <Field field="12/31/2018" selected="True" />
+            <Field field="12/31/2017" selected="True" />
+            <Field field="12/31/2016" selected="True" />
+            <Field field="12/31/2015" selected="True" />
+            <Field field="12/31/2014" selected="True" />
+            <Field field="12/31/2013" selected="True" />
+            <Field field="12/31/2012" selected="True" />
+            <Field field="12/31/2011" selected="True" />
+            <Field field="12/31/2010" selected="True" />
+            <Field field="12/31/2009" selected="True" />
+            <Field field="12/31/2008" selected="True" />
+            <Field field="12/31/2007" selected="True" />
+            <Field field="12/31/2006" selected="True" />
+            <Field field="12/31/2005" selected="True" />
+            <Field field="12/31/2004" selected="True" />
+            <Field field="12/31/2003" selected="True" />
+            <Field field="12/31/2002" selected="True" />
+            <Field field="12/31/2001" selected="True" />
+            <Field field="12/31/2000" selected="True" />
+            <Field field="12/31/1999" selected="True" />
+            <Field field="12/31/1998" selected="True" />
+            <Field field="12/31/1997" selected="True" />
+            <Field field="12/31/1996" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="282" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" />
+            <Field name="AccountsPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccumulatedDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AdditionalPaidInCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AllowanceForDoubtfulAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="BuildingsAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CapitalLeaseObligations" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CapitalStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashAndCashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashCashEquivalentsAndShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashFinancial" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStockEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ConstructionInProgress" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredTaxesAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="FinishedGoods" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GainsLossesNotAffectingRetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Goodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GoodwillAndOtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InterestPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Inventory" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestedCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestmentsAndAdvances" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LandAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Leases" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermEquityInvestment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="MachineryFurnitureEquipment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetTangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredTaxesAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredTaxesLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentPrepaidAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OrdinarySharesNumber" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentBorrowings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherEquityAdjustments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherEquityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherProperties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Payables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PayablesAndAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PreferredStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PrepaidAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Properties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Receivables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="RetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ShareIssued" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TangibleBookValue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalCapitalization" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalEquityGrossMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TradeandOtherPayablesNonCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TreasurySharesNumber" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TreasuryStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+            <Field name="WorkingCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AMZN_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="510" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_16368_ffd3c3c5704f4745a3f3e68fd5e3f748_\Engine_16368_1a8587adf66b794ca9325e557d87451b~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="198" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="12/31/2023" selected="True" />
+            <Field field="12/31/2022" selected="True" />
+            <Field field="12/31/2021" selected="True" />
+            <Field field="12/31/2020" selected="True" />
+            <Field field="12/31/2019" selected="True" />
+            <Field field="12/31/2018" selected="True" />
+            <Field field="12/31/2017" selected="True" />
+            <Field field="12/31/2016" selected="True" />
+            <Field field="12/31/2015" selected="True" />
+            <Field field="12/31/2014" selected="True" />
+            <Field field="12/31/2013" selected="True" />
+            <Field field="12/31/2012" selected="True" />
+            <Field field="12/31/2011" selected="True" />
+            <Field field="12/31/2010" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="282" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" />
+            <Field name="AccountsPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccumulatedDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AdditionalPaidInCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AllowanceForDoubtfulAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AvailableForSaleSecurities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="BuildingsAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CapitalLeaseObligations" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CapitalStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashAndCashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashCashEquivalentsAndShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashFinancial" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStockEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ConstructionInProgress" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentNotesPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="DuetoRelatedPartiesCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GainsLossesNotAffectingRetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Goodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GoodwillAndOtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestedCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestmentinFinancialAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestmentsAndAdvances" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LandAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Leases" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LineOfCredit" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermEquityInvestment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="MachineryFurnitureEquipment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetTangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredTaxesLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OrdinarySharesNumber" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherEquityAdjustments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherProperties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Payables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PayablesAndAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PensionandOtherPostRetirementBenefitPlansCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PreferredStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PreferredStockEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PrepaidAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Properties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Receivables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="RetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ShareIssued" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TangibleBookValue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TaxesReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalCapitalization" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalEquityGrossMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalTaxPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TradeandOtherPayablesNonCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TreasurySharesNumber" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+            <Field name="WorkingCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\META_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="522" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_16368_ffd3c3c5704f4745a3f3e68fd5e3f748_\Engine_16368_a2749230a15e1d4cb33314dc516875e2~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="198" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="12/31/2023" selected="True" />
+            <Field field="09/30/2023" selected="True" />
+            <Field field="06/30/2023" selected="True" />
+            <Field field="03/31/2023" selected="True" />
+            <Field field="12/31/2022" selected="True" />
+            <Field field="09/30/2022" selected="True" />
+            <Field field="06/30/2022" selected="True" />
+            <Field field="03/31/2022" selected="True" />
+            <Field field="12/31/2021" selected="True" />
+            <Field field="09/30/2021" selected="True" />
+            <Field field="06/30/2021" selected="True" />
+            <Field field="03/31/2021" selected="True" />
+            <Field field="12/31/2020" selected="True" />
+            <Field field="09/30/2020" selected="True" />
+            <Field field="06/30/2020" selected="True" />
+            <Field field="03/31/2020" selected="True" />
+            <Field field="12/31/2019" selected="True" />
+            <Field field="09/30/2019" selected="True" />
+            <Field field="06/30/2019" selected="True" />
+            <Field field="03/31/2019" selected="True" />
+            <Field field="12/31/2018" selected="True" />
+            <Field field="09/30/2018" selected="True" />
+            <Field field="06/30/2018" selected="True" />
+            <Field field="03/31/2018" selected="True" />
+            <Field field="12/31/2017" selected="True" />
+            <Field field="09/30/2017" selected="True" />
+            <Field field="06/30/2017" selected="True" />
+            <Field field="03/31/2017" selected="True" />
+            <Field field="12/31/2016" selected="True" />
+            <Field field="09/30/2016" selected="True" />
+            <Field field="06/30/2016" selected="True" />
+            <Field field="03/31/2016" selected="True" />
+            <Field field="12/31/2015" selected="True" />
+            <Field field="09/30/2015" selected="True" />
+            <Field field="06/30/2015" selected="True" />
+            <Field field="03/31/2015" selected="True" />
+            <Field field="12/31/2014" selected="True" />
+            <Field field="09/30/2014" selected="True" />
+            <Field field="06/30/2014" selected="True" />
+            <Field field="03/31/2014" selected="True" />
+            <Field field="12/31/2013" selected="True" />
+            <Field field="09/30/2013" selected="True" />
+            <Field field="06/30/2013" selected="True" />
+            <Field field="03/31/2013" selected="True" />
+            <Field field="12/31/2012" selected="True" />
+            <Field field="09/30/2012" selected="True" />
+            <Field field="06/30/2012" selected="True" />
+            <Field field="03/31/2012" selected="True" />
+            <Field field="12/31/2011" selected="True" />
+            <Field field="09/30/2011" selected="True" />
+            <Field field="06/30/2011" selected="True" />
+            <Field field="03/31/2011" selected="True" />
+            <Field field="12/31/2010" selected="True" />
+            <Field field="09/30/2010" selected="True" />
+            <Field field="06/30/2010" selected="True" />
+            <Field field="03/31/2010" selected="True" />
+            <Field field="12/31/2009" selected="True" />
+            <Field field="09/30/2009" selected="True" />
+            <Field field="06/30/2009" selected="True" />
+            <Field field="03/31/2009" selected="True" />
+            <Field field="12/31/2008" selected="True" />
+            <Field field="09/30/2008" selected="True" />
+            <Field field="06/30/2008" selected="True" />
+            <Field field="03/31/2008" selected="True" />
+            <Field field="12/31/2007" selected="True" />
+            <Field field="09/30/2007" selected="True" />
+            <Field field="06/30/2007" selected="True" />
+            <Field field="03/31/2007" selected="True" />
+            <Field field="12/31/2006" selected="True" />
+            <Field field="09/30/2006" selected="True" />
+            <Field field="06/30/2006" selected="True" />
+            <Field field="03/31/2006" selected="True" />
+            <Field field="12/31/2005" selected="True" />
+            <Field field="09/30/2005" selected="True" />
+            <Field field="06/30/2005" selected="True" />
+            <Field field="03/31/2005" selected="True" />
+            <Field field="12/31/2004" selected="True" />
+            <Field field="09/30/2004" selected="True" />
+            <Field field="06/30/2004" selected="True" />
+            <Field field="03/31/2004" selected="True" />
+            <Field field="12/31/2003" selected="True" />
+            <Field field="09/30/2003" selected="True" />
+            <Field field="06/30/2003" selected="True" />
+            <Field field="03/31/2003" selected="True" />
+            <Field field="12/31/2002" selected="True" />
+            <Field field="09/30/2002" selected="True" />
+            <Field field="06/30/2002" selected="True" />
+            <Field field="03/31/2002" selected="True" />
+            <Field field="12/31/2001" selected="True" />
+            <Field field="09/30/2001" selected="True" />
+            <Field field="06/30/2001" selected="True" />
+            <Field field="03/31/2001" selected="True" />
+            <Field field="12/31/2000" selected="True" />
+            <Field field="09/30/2000" selected="True" />
+            <Field field="06/30/2000" selected="True" />
+            <Field field="03/31/2000" selected="True" />
+            <Field field="12/31/1999" selected="True" />
+            <Field field="09/30/1999" selected="True" />
+            <Field field="06/30/1999" selected="True" />
+            <Field field="03/31/1999" selected="True" />
+            <Field field="12/31/1998" selected="True" />
+            <Field field="09/30/1998" selected="True" />
+            <Field field="06/30/1998" selected="True" />
+            <Field field="03/31/1998" selected="True" />
+            <Field field="12/31/1997" selected="True" />
+            <Field field="09/30/1997" selected="True" />
+            <Field field="06/30/1997" selected="True" />
+            <Field field="03/31/1997" selected="True" />
+            <Field field="12/31/1996" selected="True" />
+            <Field field="09/30/1996" selected="True" />
+            <Field field="06/30/1996" selected="True" />
+            <Field field="03/31/1996" selected="True" />
+            <Field field="12/31/1995" selected="True" />
+            <Field field="09/30/1995" selected="True" />
+            <Field field="06/30/1995" selected="True" />
+            <Field field="03/31/1995" selected="True" />
+            <Field field="12/31/1994" selected="True" />
+            <Field field="09/30/1994" selected="True" />
+            <Field field="06/30/1994" selected="True" />
+            <Field field="03/31/1994" selected="True" />
+            <Field field="12/31/1993" selected="True" />
+            <Field field="09/30/1993" selected="True" />
+            <Field field="06/30/1993" selected="True" />
+            <Field field="03/31/1993" selected="True" />
+            <Field field="12/31/1992" selected="True" />
+            <Field field="09/30/1992" selected="True" />
+            <Field field="06/30/1992" selected="True" />
+            <Field field="03/31/1992" selected="True" />
+            <Field field="12/31/1991" selected="True" />
+            <Field field="09/30/1991" selected="True" />
+            <Field field="06/30/1991" selected="True" />
+            <Field field="03/31/1991" selected="True" />
+            <Field field="12/31/1990" selected="True" />
+            <Field field="09/30/1990" selected="True" />
+            <Field field="06/30/1990" selected="True" />
+            <Field field="03/31/1990" selected="True" />
+            <Field field="12/31/1989" selected="True" />
+            <Field field="09/30/1989" selected="True" />
+            <Field field="06/30/1989" selected="True" />
+            <Field field="06/30/1988" selected="True" />
+            <Field field="06/30/1987" selected="True" />
+            <Field field="06/30/1986" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="282" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" />
+            <Field name="AccountsPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AccumulatedDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="AllowanceForDoubtfulAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="BuildingsAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CapitalLeaseObligations" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CapitalStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashAndCashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashCashEquivalentsAndShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashEquivalents" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CashFinancial" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CommonStockEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredTaxesAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentDeferredTaxesLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="FinishedGoods" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ForeignCurrencyTranslationAdjustments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GainsLossesNotAffectingRetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Goodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GoodwillAndOtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossAccountsReceivable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="GrossPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="HedgingAssetsCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="IncomeTaxPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Inventory" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestedCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="InvestmentsAndAdvances" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LandAndImprovements" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Leases" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermDebtAndCapitalLeaseObligation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="LongTermEquityInvestment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="MachineryFurnitureEquipment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="MinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetPPE" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NetTangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredTaxesAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="NonCurrentDeferredTaxesLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OrdinarySharesNumber" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherEquityAdjustments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherEquityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherIntangibleAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherNonCurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherProperties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="OtherShortTermInvestments" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Payables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PayablesAndAccruedExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PensionandOtherPostRetirementBenefitPlansCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PreferredStock" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="PreferredStockEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Properties" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="RawMaterials" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="Receivables" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="RetainedEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="ShareIssued" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TangibleBookValue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalCapitalization" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalDebt" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalEquityGrossMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalNonCurrentLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TotalTaxPayable" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="TradeandOtherPayablesNonCurrent" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="WorkingCapital" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+            <Field name="WorkInProcess" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\MSFT_annual_balance-sheet.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="522" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_16368_ffd3c3c5704f4745a3f3e68fd5e3f748_\Engine_16368_fbf7db9a124fd24e8ec2768684ad13ca~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="426" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;AAPL&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "AAPL"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="426" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;AMZN&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "AMZN"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="426" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;META&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "META"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="426" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;MSFT&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "MSFT"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="582" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>ByName</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="#1">
+              <RecordInfo>
+                <Field name="Name2" size="9" source="CrossTab:Group:First:" type="String" column="1" />
+                <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" column="2" />
+                <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" column="3" />
+                <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" column="4" />
+                <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Balance-sheet\AAPL_annual_balance-sheet.csv" type="V_String" column="5" />
+                <Field name="CompanyName" size="1073741823" source="Formula: &quot;AAPL&quot;" type="V_WString" column="6" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#2">
+              <RecordInfo>
+                <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" column="1" />
+                <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\AMZN_quarterly_balance-sheet.csv" type="V_String" column="2" />
+                <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\AMZN_quarterly_balance-sheet.csv" type="V_String" column="3" />
+                <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\AMZN_quarterly_balance-sheet.csv" type="V_String" column="4" />
+                <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\AMZN_quarterly_balance-sheet.csv" type="V_String" column="5" />
+                <Field name="CompanyName" size="1073741823" source="Formula: &quot;AMZN&quot;" type="V_WString" column="6" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#3">
+              <RecordInfo>
+                <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" column="1" />
+                <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\META_quarterly_balance-sheet.csv" type="V_String" column="2" />
+                <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\META_quarterly_balance-sheet.csv" type="V_String" column="3" />
+                <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\META_quarterly_balance-sheet.csv" type="V_String" column="4" />
+                <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\META_quarterly_balance-sheet.csv" type="V_String" column="5" />
+                <Field name="CompanyName" size="1073741823" source="Formula: &quot;META&quot;" type="V_WString" column="6" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#4">
+              <RecordInfo>
+                <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" column="1" />
+                <Field name="CurrentAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\MSFT_quarterly_balance-sheet.csv" type="V_String" column="2" />
+                <Field name="CurrentLiabilities" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\MSFT_quarterly_balance-sheet.csv" type="V_String" column="3" />
+                <Field name="StockholdersEquity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\MSFT_quarterly_balance-sheet.csv" type="V_String" column="4" />
+                <Field name="TotalLiabilitiesNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Balance-sheet\MSFT_quarterly_balance-sheet.csv" type="V_String" column="5" />
+                <Field name="CompanyName" size="1073741823" source="Formula: &quot;MSFT&quot;" type="V_WString" column="6" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1074" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_16368_ffd3c3c5704f4745a3f3e68fd5e3f748_\Engine_16368_fb2330e8be6c7746bedfb65cc427de5f~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="654" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Name2</InputFieldName>
+          <Language>English</Language>
+          <Format>MM/dd/yyyy</Format>
+          <OutputFieldName>Date</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Name2 From:
+MM/dd/yyyy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="750" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Text</FieldType>
+          <Fields orderChanged="False">
+            <Field name="CurrentAssets" />
+            <Field name="CurrentLiabilities" />
+            <Field name="StockholdersEquity" />
+            <Field name="TotalLiabilitiesNetMinorityInterest" />
+            <Field name="Name2" selected="False" />
+            <Field name="CompanyName" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <CopyOutput value="False" />
+          <Expression>REPLACE([_CurrentField_], ",", "")</Expression>
+          <ChangeFieldType value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>REPLACE([_CurrentField_], ",", "")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="822" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Date" selected="True" />
+            <SelectField field="Name2" selected="False" />
+            <SelectField field="CurrentAssets" selected="True" type="Int64" size="8" />
+            <SelectField field="CurrentLiabilities" selected="True" type="Int64" size="8" />
+            <SelectField field="StockholdersEquity" selected="True" type="Int64" size="8" />
+            <SelectField field="TotalLiabilitiesNetMinorityInterest" selected="True" type="Int64" size="8" />
+            <SelectField field="CompanyName" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="894" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="CompanyName" order="Ascending" />
+            <Field field="Date" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CompanyName - Ascending
+Date - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="49">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1002" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression><![CDATA[[Date] >= "2014-01-01"
+]]></Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[[Date] >= "2014-01-01"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1110" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\Khushi\OneDrive\Desktop\Output.xlsx|||Annual_balance-sheet</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Output.xlsx
+Query=Annual_balance-sheet</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="150" y="6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="REGEX_Replace([name], &quot;[\t\r\n]&quot;, &quot;&quot;)&#xA;&#xA;" field="name" size="254" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[name = REGEX_Replace([name], "[\t\r\n]", "")
+
+
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="53">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="306" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_16368_ffd3c3c5704f4745a3f3e68fd5e3f748_\Engine_16368_7abcd9f4e02b8a4e8cb3961a50940a8f~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="54">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="54" y="36" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_16368_ffd3c3c5704f4745a3f3e68fd5e3f748_\Engine_16368_725c5cd77daa4d4aa2b4832092f26cb4~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="354" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="CurrentAssets" selected="True" />
+            <SelectField field="CurrentLiabilities" selected="True" />
+            <SelectField field="StockholdersEquity" selected="True" />
+            <SelectField field="TotalLiabilitiesNetMinorityInterest" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="354" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="CurrentAssets" selected="True" />
+            <SelectField field="CurrentLiabilities" selected="True" />
+            <SelectField field="StockholdersEquity" selected="True" />
+            <SelectField field="TotalLiabilitiesNetMinorityInterest" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="354" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="CurrentAssets" selected="True" />
+            <SelectField field="CurrentLiabilities" selected="True" />
+            <SelectField field="StockholdersEquity" selected="True" />
+            <SelectField field="TotalLiabilitiesNetMinorityInterest" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="354" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Date" selected="False" />
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="AccountsPayable" selected="False" />
+            <SelectField field="AccountsReceivable" selected="False" />
+            <SelectField field="AccumulatedDepreciation" selected="False" />
+            <SelectField field="AdditionalPaidInCapital" selected="False" />
+            <SelectField field="AllowanceForDoubtfulAccountsReceivable" selected="False" />
+            <SelectField field="AvailableForSaleSecurities" selected="False" />
+            <SelectField field="BuildingsAndImprovements" selected="False" />
+            <SelectField field="CapitalStock" selected="False" />
+            <SelectField field="CashAndCashEquivalents" selected="False" />
+            <SelectField field="CashCashEquivalentsAndShortTermInvestments" selected="False" />
+            <SelectField field="CashEquivalents" selected="False" />
+            <SelectField field="CashFinancial" selected="False" />
+            <SelectField field="CommercialPaper" selected="False" />
+            <SelectField field="CommonStock" selected="False" />
+            <SelectField field="CommonStockEquity" selected="False" />
+            <SelectField field="CurrentAccruedExpenses" selected="False" />
+            <SelectField field="CurrentAssets" selected="True" />
+            <SelectField field="CurrentDebt" selected="False" />
+            <SelectField field="CurrentDebtAndCapitalLeaseObligation" selected="False" />
+            <SelectField field="CurrentDeferredAssets" selected="False" />
+            <SelectField field="CurrentDeferredLiabilities" selected="False" />
+            <SelectField field="CurrentDeferredRevenue" selected="False" />
+            <SelectField field="CurrentDeferredTaxesAssets" selected="False" />
+            <SelectField field="CurrentDeferredTaxesLiabilities" selected="False" />
+            <SelectField field="CurrentLiabilities" selected="True" />
+            <SelectField field="CurrentNotesPayable" selected="False" />
+            <SelectField field="FinishedGoods" selected="False" />
+            <SelectField field="ForeignCurrencyTranslationAdjustments" selected="False" />
+            <SelectField field="GainsLossesNotAffectingRetainedEarnings" selected="False" />
+            <SelectField field="Goodwill" selected="False" />
+            <SelectField field="GoodwillAndOtherIntangibleAssets" selected="False" />
+            <SelectField field="GrossAccountsReceivable" selected="False" />
+            <SelectField field="GrossPPE" selected="False" />
+            <SelectField field="IncomeTaxPayable" selected="False" />
+            <SelectField field="Inventory" selected="False" />
+            <SelectField field="InvestedCapital" selected="False" />
+            <SelectField field="InvestmentinFinancialAssets" selected="False" />
+            <SelectField field="InvestmentsAndAdvances" selected="False" />
+            <SelectField field="LandAndImprovements" selected="False" />
+            <SelectField field="Leases" selected="False" />
+            <SelectField field="LongTermDebt" selected="False" />
+            <SelectField field="LongTermDebtAndCapitalLeaseObligation" selected="False" />
+            <SelectField field="MachineryFurnitureEquipment" selected="False" />
+            <SelectField field="NetDebt" selected="False" />
+            <SelectField field="NetPPE" selected="False" />
+            <SelectField field="NetTangibleAssets" selected="False" />
+            <SelectField field="NonCurrentDeferredAssets" selected="False" />
+            <SelectField field="NonCurrentDeferredLiabilities" selected="False" />
+            <SelectField field="NonCurrentDeferredRevenue" selected="False" />
+            <SelectField field="NonCurrentDeferredTaxesAssets" selected="False" />
+            <SelectField field="NonCurrentDeferredTaxesLiabilities" selected="False" />
+            <SelectField field="NonCurrentPrepaidAssets" selected="False" />
+            <SelectField field="OrdinarySharesNumber" selected="False" />
+            <SelectField field="OtherCurrentAssets" selected="False" />
+            <SelectField field="OtherCurrentBorrowings" selected="False" />
+            <SelectField field="OtherCurrentLiabilities" selected="False" />
+            <SelectField field="OtherEquityAdjustments" selected="False" />
+            <SelectField field="OtherEquityInterest" selected="False" />
+            <SelectField field="OtherIntangibleAssets" selected="False" />
+            <SelectField field="OtherInventories" selected="False" />
+            <SelectField field="OtherInvestments" selected="False" />
+            <SelectField field="OtherNonCurrentAssets" selected="False" />
+            <SelectField field="OtherNonCurrentLiabilities" selected="False" />
+            <SelectField field="OtherPayable" selected="False" />
+            <SelectField field="OtherProperties" selected="False" />
+            <SelectField field="OtherReceivables" selected="False" />
+            <SelectField field="OtherShortTermInvestments" selected="False" />
+            <SelectField field="Payables" selected="False" />
+            <SelectField field="PayablesAndAccruedExpenses" selected="False" />
+            <SelectField field="PensionandOtherPostRetirementBenefitPlansCurrent" selected="False" />
+            <SelectField field="PreferredStock" selected="False" />
+            <SelectField field="PreferredStockEquity" selected="False" />
+            <SelectField field="PrepaidAssets" selected="False" />
+            <SelectField field="Properties" selected="False" />
+            <SelectField field="RawMaterials" selected="False" />
+            <SelectField field="Receivables" selected="False" />
+            <SelectField field="ReceivablesAdjustmentsAllowances" selected="False" />
+            <SelectField field="RetainedEarnings" selected="False" />
+            <SelectField field="ShareIssued" selected="False" />
+            <SelectField field="StockholdersEquity" selected="True" />
+            <SelectField field="TangibleBookValue" selected="False" />
+            <SelectField field="TotalAssets" selected="False" />
+            <SelectField field="TotalCapitalization" selected="False" />
+            <SelectField field="TotalDebt" selected="False" />
+            <SelectField field="TotalEquityGrossMinorityInterest" selected="False" />
+            <SelectField field="TotalLiabilitiesNetMinorityInterest" selected="True" />
+            <SelectField field="TotalNonCurrentAssets" selected="False" />
+            <SelectField field="TotalNonCurrentLiabilitiesNetMinorityInterest" selected="False" />
+            <SelectField field="TotalTaxPayable" selected="False" />
+            <SelectField field="TradeandOtherPayablesNonCurrent" selected="False" />
+            <SelectField field="TreasurySharesNumber" selected="False" />
+            <SelectField field="WorkingCapital" selected="False" />
+            <SelectField field="WorkInProcess" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="True" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="True" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Balance Sheet workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="46d469bb-44dd-4103-9f75-3afa16d70a6b" />
+      <Telemetry>
+        <PreviousWorkflowId value="ca8b8de7-692d-4a45-91b9-4f4db8934bcb" />
+        <OriginWorkflowId value="ca8b8de7-692d-4a45-91b9-4f4db8934bcb" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

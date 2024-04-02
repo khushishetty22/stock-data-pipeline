@@ -1,0 +1,1782 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>AAPL_annual_financials.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="ttm" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2009" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2008" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2007" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2006" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2005" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2004" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2003" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2002" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2001" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/2000" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1999" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1998" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1997" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1996" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1995" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1994" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1993" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1992" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1991" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1990" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1989" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1988" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1987" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1986" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="09/30/1985" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>AMZN_annual_financials.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="ttm" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2009" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2008" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2007" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2006" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2005" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2004" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2003" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2002" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2001" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2000" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/1999" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/1998" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/1997" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="12/31/1996" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>META_annual_financials.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="ttm" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+            <Field name="12/31/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\META_annual_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>MSFT_annual_financials.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="name" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="ttm" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2023" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2022" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2021" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2020" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2019" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2018" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2017" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2016" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2015" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2014" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2013" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2012" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2011" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2010" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2009" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2008" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2007" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2006" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2005" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2004" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2003" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2002" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2001" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/2000" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1999" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1998" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1997" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1996" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1995" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1994" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1993" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1992" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1991" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1990" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1989" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1988" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1987" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="06/30/1986" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="450" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_27692_c7fdb01aa36ff54080e261a70adfc788_\Engine_27692_f693b9052ad761499f27922599d39570~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="150" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="ttm" selected="True" />
+            <Field field="09/30/2023" selected="True" />
+            <Field field="09/30/2022" selected="True" />
+            <Field field="09/30/2021" selected="True" />
+            <Field field="09/30/2020" selected="True" />
+            <Field field="09/30/2019" selected="True" />
+            <Field field="09/30/2018" selected="True" />
+            <Field field="09/30/2017" selected="True" />
+            <Field field="09/30/2016" selected="True" />
+            <Field field="09/30/2015" selected="True" />
+            <Field field="09/30/2014" selected="True" />
+            <Field field="09/30/2013" selected="True" />
+            <Field field="09/30/2012" selected="True" />
+            <Field field="09/30/2011" selected="True" />
+            <Field field="09/30/2010" selected="True" />
+            <Field field="09/30/2009" selected="True" />
+            <Field field="09/30/2008" selected="True" />
+            <Field field="09/30/2007" selected="True" />
+            <Field field="09/30/2006" selected="True" />
+            <Field field="09/30/2005" selected="True" />
+            <Field field="09/30/2004" selected="True" />
+            <Field field="09/30/2003" selected="True" />
+            <Field field="09/30/2002" selected="True" />
+            <Field field="09/30/2001" selected="True" />
+            <Field field="09/30/2000" selected="True" />
+            <Field field="09/30/1999" selected="True" />
+            <Field field="09/30/1998" selected="True" />
+            <Field field="09/30/1997" selected="True" />
+            <Field field="09/30/1996" selected="True" />
+            <Field field="09/30/1995" selected="True" />
+            <Field field="09/30/1994" selected="True" />
+            <Field field="09/30/1993" selected="True" />
+            <Field field="09/30/1992" selected="True" />
+            <Field field="09/30/1991" selected="True" />
+            <Field field="09/30/1990" selected="True" />
+            <Field field="09/30/1989" selected="True" />
+            <Field field="09/30/1988" selected="True" />
+            <Field field="09/30/1987" selected="True" />
+            <Field field="09/30/1986" selected="True" />
+            <Field field="09/30/1985" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="222" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" />
+            <Field name="BasicAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="BasicEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="CostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="DepreciationAmortizationDepletionIncomeStatement" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="DepreciationAndAmortizationInIncomeStatement" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="DilutedAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="DilutedEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="DilutedNIAvailtoComStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="EarningsFromEquityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="EBIT" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="EBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="GainOnSaleOfSecurity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="GrossProfit" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="InterestExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="InterestExpenseNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="InterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="InterestIncomeNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeCommonStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeContinuousOperations" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeExtraordinary" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingAndDiscontinuedOperation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingOperationNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromTaxLossCarryforward" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeIncludingNoncontrollingInterests" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetInterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NetNonOperatingInterestIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NormalizedEBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="NormalizedIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="OperatingExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="OperatingIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="OperatingRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="OtherIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="OtherNonOperatingIncomeExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="OtherOperatingExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="OtherSpecialCharges" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="PretaxIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="ReconciledCostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="ReconciledDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="ResearchAndDevelopment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="RestructuringAndMergernAcquisition" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="SellingGeneralAndAdministration" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="SpecialIncomeCharges" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TaxEffectOfUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TaxProvision" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TaxRateForCalcs" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TotalExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TotalOperatingIncomeAsReported" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TotalOtherFinanceCost" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TotalRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItemsExcludingGoodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AAPL_annual_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="294" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="BasicEPS" selected="True" />
+            <SelectField field="EBIT" selected="True" />
+            <SelectField field="GrossProfit" selected="True" />
+            <SelectField field="InterestExpense" selected="True" />
+            <SelectField field="NetIncome" selected="True" />
+            <SelectField field="TotalRevenue" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="150" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="ttm" selected="True" />
+            <Field field="12/31/2023" selected="True" />
+            <Field field="09/30/2023" selected="True" />
+            <Field field="06/30/2023" selected="True" />
+            <Field field="03/31/2023" selected="True" />
+            <Field field="12/31/2022" selected="True" />
+            <Field field="09/30/2022" selected="True" />
+            <Field field="06/30/2022" selected="True" />
+            <Field field="03/31/2022" selected="True" />
+            <Field field="12/31/2021" selected="True" />
+            <Field field="09/30/2021" selected="True" />
+            <Field field="06/30/2021" selected="True" />
+            <Field field="03/31/2021" selected="True" />
+            <Field field="12/31/2020" selected="True" />
+            <Field field="09/30/2020" selected="True" />
+            <Field field="06/30/2020" selected="True" />
+            <Field field="03/31/2020" selected="True" />
+            <Field field="12/31/2019" selected="True" />
+            <Field field="09/30/2019" selected="True" />
+            <Field field="06/30/2019" selected="True" />
+            <Field field="03/31/2019" selected="True" />
+            <Field field="12/31/2018" selected="True" />
+            <Field field="09/30/2018" selected="True" />
+            <Field field="06/30/2018" selected="True" />
+            <Field field="03/31/2018" selected="True" />
+            <Field field="12/31/2017" selected="True" />
+            <Field field="09/30/2017" selected="True" />
+            <Field field="06/30/2017" selected="True" />
+            <Field field="03/31/2017" selected="True" />
+            <Field field="12/31/2016" selected="True" />
+            <Field field="09/30/2016" selected="True" />
+            <Field field="06/30/2016" selected="True" />
+            <Field field="03/31/2016" selected="True" />
+            <Field field="12/31/2015" selected="True" />
+            <Field field="09/30/2015" selected="True" />
+            <Field field="06/30/2015" selected="True" />
+            <Field field="03/31/2015" selected="True" />
+            <Field field="12/31/2014" selected="True" />
+            <Field field="09/30/2014" selected="True" />
+            <Field field="06/30/2014" selected="True" />
+            <Field field="03/31/2014" selected="True" />
+            <Field field="12/31/2013" selected="True" />
+            <Field field="09/30/2013" selected="True" />
+            <Field field="06/30/2013" selected="True" />
+            <Field field="03/31/2013" selected="True" />
+            <Field field="12/31/2012" selected="True" />
+            <Field field="09/30/2012" selected="True" />
+            <Field field="06/30/2012" selected="True" />
+            <Field field="03/31/2012" selected="True" />
+            <Field field="12/31/2011" selected="True" />
+            <Field field="09/30/2011" selected="True" />
+            <Field field="06/30/2011" selected="True" />
+            <Field field="03/31/2011" selected="True" />
+            <Field field="12/31/2010" selected="True" />
+            <Field field="09/30/2010" selected="True" />
+            <Field field="06/30/2010" selected="True" />
+            <Field field="03/31/2010" selected="True" />
+            <Field field="12/31/2009" selected="True" />
+            <Field field="09/30/2009" selected="True" />
+            <Field field="06/30/2009" selected="True" />
+            <Field field="03/31/2009" selected="True" />
+            <Field field="12/31/2008" selected="True" />
+            <Field field="09/30/2008" selected="True" />
+            <Field field="06/30/2008" selected="True" />
+            <Field field="03/31/2008" selected="True" />
+            <Field field="12/31/2007" selected="True" />
+            <Field field="09/30/2007" selected="True" />
+            <Field field="06/30/2007" selected="True" />
+            <Field field="03/31/2007" selected="True" />
+            <Field field="12/31/2006" selected="True" />
+            <Field field="09/30/2006" selected="True" />
+            <Field field="06/30/2006" selected="True" />
+            <Field field="03/31/2006" selected="True" />
+            <Field field="12/31/2005" selected="True" />
+            <Field field="09/30/2005" selected="True" />
+            <Field field="06/30/2005" selected="True" />
+            <Field field="03/31/2005" selected="True" />
+            <Field field="12/31/2004" selected="True" />
+            <Field field="09/30/2004" selected="True" />
+            <Field field="06/30/2004" selected="True" />
+            <Field field="03/31/2004" selected="True" />
+            <Field field="12/31/2003" selected="True" />
+            <Field field="09/30/2003" selected="True" />
+            <Field field="06/30/2003" selected="True" />
+            <Field field="03/31/2003" selected="True" />
+            <Field field="12/31/2002" selected="True" />
+            <Field field="09/30/2002" selected="True" />
+            <Field field="06/30/2002" selected="True" />
+            <Field field="03/31/2002" selected="True" />
+            <Field field="12/31/2001" selected="True" />
+            <Field field="09/30/2001" selected="True" />
+            <Field field="06/30/2001" selected="True" />
+            <Field field="03/31/2001" selected="True" />
+            <Field field="12/31/2000" selected="True" />
+            <Field field="09/30/2000" selected="True" />
+            <Field field="06/30/2000" selected="True" />
+            <Field field="03/31/2000" selected="True" />
+            <Field field="12/31/1999" selected="True" />
+            <Field field="09/30/1999" selected="True" />
+            <Field field="06/30/1999" selected="True" />
+            <Field field="03/31/1999" selected="True" />
+            <Field field="12/31/1998" selected="True" />
+            <Field field="09/30/1998" selected="True" />
+            <Field field="06/30/1998" selected="True" />
+            <Field field="03/31/1998" selected="True" />
+            <Field field="12/31/1997" selected="True" />
+            <Field field="09/30/1997" selected="True" />
+            <Field field="06/30/1997" selected="True" />
+            <Field field="03/31/1997" selected="True" />
+            <Field field="12/31/1996" selected="True" />
+            <Field field="09/30/1996" selected="True" />
+            <Field field="06/30/1996" selected="True" />
+            <Field field="03/31/1996" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="150" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="ttm" selected="True" />
+            <Field field="12/31/2023" selected="True" />
+            <Field field="09/30/2023" selected="True" />
+            <Field field="06/30/2023" selected="True" />
+            <Field field="03/31/2023" selected="True" />
+            <Field field="12/31/2022" selected="True" />
+            <Field field="09/30/2022" selected="True" />
+            <Field field="06/30/2022" selected="True" />
+            <Field field="03/31/2022" selected="True" />
+            <Field field="12/31/2021" selected="True" />
+            <Field field="09/30/2021" selected="True" />
+            <Field field="06/30/2021" selected="True" />
+            <Field field="03/31/2021" selected="True" />
+            <Field field="12/31/2020" selected="True" />
+            <Field field="09/30/2020" selected="True" />
+            <Field field="06/30/2020" selected="True" />
+            <Field field="03/31/2020" selected="True" />
+            <Field field="12/31/2019" selected="True" />
+            <Field field="09/30/2019" selected="True" />
+            <Field field="06/30/2019" selected="True" />
+            <Field field="03/31/2019" selected="True" />
+            <Field field="12/31/2018" selected="True" />
+            <Field field="09/30/2018" selected="True" />
+            <Field field="06/30/2018" selected="True" />
+            <Field field="03/31/2018" selected="True" />
+            <Field field="12/31/2017" selected="True" />
+            <Field field="09/30/2017" selected="True" />
+            <Field field="06/30/2017" selected="True" />
+            <Field field="03/31/2017" selected="True" />
+            <Field field="12/31/2016" selected="True" />
+            <Field field="09/30/2016" selected="True" />
+            <Field field="06/30/2016" selected="True" />
+            <Field field="03/31/2016" selected="True" />
+            <Field field="12/31/2015" selected="True" />
+            <Field field="09/30/2015" selected="True" />
+            <Field field="06/30/2015" selected="True" />
+            <Field field="03/31/2015" selected="True" />
+            <Field field="12/31/2014" selected="True" />
+            <Field field="09/30/2014" selected="True" />
+            <Field field="06/30/2014" selected="True" />
+            <Field field="03/31/2014" selected="True" />
+            <Field field="12/31/2013" selected="True" />
+            <Field field="09/30/2013" selected="True" />
+            <Field field="06/30/2013" selected="True" />
+            <Field field="03/31/2013" selected="True" />
+            <Field field="12/31/2012" selected="True" />
+            <Field field="09/30/2012" selected="True" />
+            <Field field="06/30/2012" selected="True" />
+            <Field field="03/31/2012" selected="True" />
+            <Field field="12/31/2011" selected="True" />
+            <Field field="09/30/2011" selected="True" />
+            <Field field="06/30/2011" selected="True" />
+            <Field field="03/31/2011" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="150" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="name" selected="False" />
+            <Field field="ttm" selected="True" />
+            <Field field="12/31/2023" selected="True" />
+            <Field field="09/30/2023" selected="True" />
+            <Field field="06/30/2023" selected="True" />
+            <Field field="03/31/2023" selected="True" />
+            <Field field="12/31/2022" selected="True" />
+            <Field field="09/30/2022" selected="True" />
+            <Field field="06/30/2022" selected="True" />
+            <Field field="03/31/2022" selected="True" />
+            <Field field="12/31/2021" selected="True" />
+            <Field field="09/30/2021" selected="True" />
+            <Field field="06/30/2021" selected="True" />
+            <Field field="03/31/2021" selected="True" />
+            <Field field="12/31/2020" selected="True" />
+            <Field field="09/30/2020" selected="True" />
+            <Field field="06/30/2020" selected="True" />
+            <Field field="03/31/2020" selected="True" />
+            <Field field="12/31/2019" selected="True" />
+            <Field field="09/30/2019" selected="True" />
+            <Field field="06/30/2019" selected="True" />
+            <Field field="03/31/2019" selected="True" />
+            <Field field="12/31/2018" selected="True" />
+            <Field field="09/30/2018" selected="True" />
+            <Field field="06/30/2018" selected="True" />
+            <Field field="03/31/2018" selected="True" />
+            <Field field="12/31/2017" selected="True" />
+            <Field field="09/30/2017" selected="True" />
+            <Field field="06/30/2017" selected="True" />
+            <Field field="03/31/2017" selected="True" />
+            <Field field="12/31/2016" selected="True" />
+            <Field field="09/30/2016" selected="True" />
+            <Field field="06/30/2016" selected="True" />
+            <Field field="03/31/2016" selected="True" />
+            <Field field="12/31/2015" selected="True" />
+            <Field field="09/30/2015" selected="True" />
+            <Field field="06/30/2015" selected="True" />
+            <Field field="03/31/2015" selected="True" />
+            <Field field="12/31/2014" selected="True" />
+            <Field field="09/30/2014" selected="True" />
+            <Field field="06/30/2014" selected="True" />
+            <Field field="03/31/2014" selected="True" />
+            <Field field="12/31/2013" selected="True" />
+            <Field field="09/30/2013" selected="True" />
+            <Field field="06/30/2013" selected="True" />
+            <Field field="03/31/2013" selected="True" />
+            <Field field="12/31/2012" selected="True" />
+            <Field field="09/30/2012" selected="True" />
+            <Field field="06/30/2012" selected="True" />
+            <Field field="03/31/2012" selected="True" />
+            <Field field="12/31/2011" selected="True" />
+            <Field field="09/30/2011" selected="True" />
+            <Field field="06/30/2011" selected="True" />
+            <Field field="03/31/2011" selected="True" />
+            <Field field="12/31/2010" selected="True" />
+            <Field field="09/30/2010" selected="True" />
+            <Field field="06/30/2010" selected="True" />
+            <Field field="03/31/2010" selected="True" />
+            <Field field="12/31/2009" selected="True" />
+            <Field field="09/30/2009" selected="True" />
+            <Field field="06/30/2009" selected="True" />
+            <Field field="03/31/2009" selected="True" />
+            <Field field="12/31/2008" selected="True" />
+            <Field field="09/30/2008" selected="True" />
+            <Field field="06/30/2008" selected="True" />
+            <Field field="03/31/2008" selected="True" />
+            <Field field="12/31/2007" selected="True" />
+            <Field field="09/30/2007" selected="True" />
+            <Field field="06/30/2007" selected="True" />
+            <Field field="03/31/2007" selected="True" />
+            <Field field="12/31/2006" selected="True" />
+            <Field field="09/30/2006" selected="True" />
+            <Field field="06/30/2006" selected="True" />
+            <Field field="03/31/2006" selected="True" />
+            <Field field="12/31/2005" selected="True" />
+            <Field field="09/30/2005" selected="True" />
+            <Field field="06/30/2005" selected="True" />
+            <Field field="03/31/2005" selected="True" />
+            <Field field="12/31/2004" selected="True" />
+            <Field field="09/30/2004" selected="True" />
+            <Field field="06/30/2004" selected="True" />
+            <Field field="03/31/2004" selected="True" />
+            <Field field="12/31/2003" selected="True" />
+            <Field field="09/30/2003" selected="True" />
+            <Field field="06/30/2003" selected="True" />
+            <Field field="03/31/2003" selected="True" />
+            <Field field="12/31/2002" selected="True" />
+            <Field field="09/30/2002" selected="True" />
+            <Field field="06/30/2002" selected="True" />
+            <Field field="03/31/2002" selected="True" />
+            <Field field="12/31/2001" selected="True" />
+            <Field field="09/30/2001" selected="True" />
+            <Field field="06/30/2001" selected="True" />
+            <Field field="03/31/2001" selected="True" />
+            <Field field="12/31/2000" selected="True" />
+            <Field field="09/30/2000" selected="True" />
+            <Field field="06/30/2000" selected="True" />
+            <Field field="03/31/2000" selected="True" />
+            <Field field="12/31/1999" selected="True" />
+            <Field field="09/30/1999" selected="True" />
+            <Field field="06/30/1999" selected="True" />
+            <Field field="03/31/1999" selected="True" />
+            <Field field="12/31/1998" selected="True" />
+            <Field field="09/30/1998" selected="True" />
+            <Field field="06/30/1998" selected="True" />
+            <Field field="03/31/1998" selected="True" />
+            <Field field="12/31/1997" selected="True" />
+            <Field field="09/30/1997" selected="True" />
+            <Field field="06/30/1997" selected="True" />
+            <Field field="03/31/1997" selected="True" />
+            <Field field="12/31/1996" selected="True" />
+            <Field field="09/30/1996" selected="True" />
+            <Field field="06/30/1996" selected="True" />
+            <Field field="03/31/1996" selected="True" />
+            <Field field="12/31/1995" selected="True" />
+            <Field field="09/30/1995" selected="True" />
+            <Field field="06/30/1995" selected="True" />
+            <Field field="03/31/1995" selected="True" />
+            <Field field="12/31/1994" selected="True" />
+            <Field field="09/30/1994" selected="True" />
+            <Field field="06/30/1994" selected="True" />
+            <Field field="03/31/1994" selected="True" />
+            <Field field="12/31/1993" selected="True" />
+            <Field field="09/30/1993" selected="True" />
+            <Field field="06/30/1993" selected="True" />
+            <Field field="03/31/1993" selected="True" />
+            <Field field="12/31/1992" selected="True" />
+            <Field field="09/30/1992" selected="True" />
+            <Field field="06/30/1992" selected="True" />
+            <Field field="03/31/1992" selected="True" />
+            <Field field="12/31/1991" selected="True" />
+            <Field field="09/30/1991" selected="True" />
+            <Field field="06/30/1991" selected="True" />
+            <Field field="03/31/1991" selected="True" />
+            <Field field="12/31/1990" selected="True" />
+            <Field field="09/30/1990" selected="True" />
+            <Field field="06/30/1990" selected="True" />
+            <Field field="03/31/1990" selected="True" />
+            <Field field="12/31/1989" selected="True" />
+            <Field field="09/30/1989" selected="True" />
+            <Field field="06/30/1989" selected="True" />
+            <Field field="03/31/1989" selected="True" />
+            <Field field="12/31/1988" selected="True" />
+            <Field field="09/30/1988" selected="True" />
+            <Field field="06/30/1988" selected="True" />
+            <Field field="03/31/1988" selected="True" />
+            <Field field="12/31/1987" selected="True" />
+            <Field field="09/30/1987" selected="True" />
+            <Field field="06/30/1987" selected="True" />
+            <Field field="03/31/1987" selected="True" />
+            <Field field="12/31/1986" selected="True" />
+            <Field field="09/30/1986" selected="True" />
+            <Field field="06/30/1986" selected="True" />
+            <Field field="03/31/1986" selected="True" />
+            <Field field="12/31/1985" selected="True" />
+            <Field field="09/30/1985" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="222" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" />
+            <Field name="Amortization" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="AmortizationOfIntangiblesIncomeStatement" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="BasicAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="BasicEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="CostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="DepreciationAmortizationDepletionIncomeStatement" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="DepreciationAndAmortizationInIncomeStatement" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="DilutedAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="DilutedEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="DilutedNIAvailtoComStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="EarningsFromEquityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="EarningsFromEquityInterestNetOfTax" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="EBIT" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="EBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="GainOnSaleOfSecurity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="GeneralAndAdministrativeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="GrossProfit" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="ImpairmentOfCapitalAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="InterestExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="InterestExpenseNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="InterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="InterestIncomeNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeCommonStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeContinuousOperations" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeExtraordinary" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingAndDiscontinuedOperation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingOperationNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeIncludingNoncontrollingInterests" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetInterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NetNonOperatingInterestIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NormalizedEBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="NormalizedIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OperatingExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OperatingIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OperatingRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OtherGandA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OtherIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OtherNonOperatingIncomeExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OtherOperatingExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OtherSpecialCharges" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="OtherunderPreferredStockDividend" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="PretaxIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="ReconciledCostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="ReconciledDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="ResearchAndDevelopment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="RestructuringAndMergernAcquisition" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="SalariesAndWages" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="SellingAndMarketingExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="SellingGeneralAndAdministration" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="SpecialIncomeCharges" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TaxEffectOfUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TaxProvision" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TaxRateForCalcs" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TotalExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TotalOperatingIncomeAsReported" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TotalRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItemsExcludingGoodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+            <Field name="WriteOff" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\AMZN_annual_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="222" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" />
+            <Field name="AverageDilutionEarnings" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="BasicAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="BasicEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="CostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="DilutedAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="DilutedEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="DilutedNIAvailtoComStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="EBIT" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="EBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="GainOnSaleOfSecurity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="GeneralAndAdministrativeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="GrossProfit" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="InterestExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="InterestExpenseNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="InterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="InterestIncomeNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetIncomeCommonStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetIncomeContinuousOperations" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingAndDiscontinuedOperation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingOperationNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetIncomeIncludingNoncontrollingInterests" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetInterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NetNonOperatingInterestIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NormalizedEBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="NormalizedIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="OperatingExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="OperatingIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="OperatingRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="OtherGandA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="OtherIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="OtherNonOperatingIncomeExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="OtherunderPreferredStockDividend" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="PretaxIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="ReconciledCostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="ReconciledDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="ResearchAndDevelopment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="SellingAndMarketingExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="SellingGeneralAndAdministration" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="SpecialIncomeCharges" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TaxEffectOfUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TaxProvision" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TaxRateForCalcs" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TotalExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TotalOperatingIncomeAsReported" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TotalOtherFinanceCost" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TotalRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItemsExcludingGoodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Quarterly_Income-statement\META_quarterly_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="222" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name2" />
+          </GroupFields>
+          <HeaderField field="name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name2" size="10" source="CrossTab:Group:First:" type="String" />
+            <Field name="BasicAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="BasicEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="CostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="DepreciationAmortizationDepletionIncomeStatement" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="DepreciationAndAmortizationInIncomeStatement" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="DilutedAverageShares" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="DilutedEPS" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="DilutedNIAvailtoComStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="EarningsFromEquityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="EBIT" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="EBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="GainOnSaleOfSecurity" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="GeneralAndAdministrativeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="GrossProfit" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="ImpairmentOfCapitalAssets" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="InterestExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="InterestExpenseNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="InterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="InterestIncomeNonOperating" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeCommonStockholders" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeContinuousOperations" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeExtraordinary" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingAndDiscontinuedOperation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeFromContinuingOperationNetMinorityInterest" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetIncomeIncludingNoncontrollingInterests" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetInterestIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NetNonOperatingInterestIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NormalizedEBITDA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="NormalizedIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="OperatingExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="OperatingIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="OperatingRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="OtherGandA" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="OtherIncomeExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="OtherNonOperatingIncomeExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="OtherSpecialCharges" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="PreferredStockDividends" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="PretaxIncome" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="ReconciledCostOfRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="ReconciledDepreciation" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="ResearchAndDevelopment" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="RestructuringAndMergernAcquisition" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="SalariesAndWages" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="SellingAndMarketingExpense" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="SellingGeneralAndAdministration" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="SpecialIncomeCharges" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TaxEffectOfUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TaxProvision" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TaxRateForCalcs" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TotalExpenses" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TotalOperatingIncomeAsReported" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TotalRevenue" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItems" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="TotalUnusualItemsExcludingGoodwill" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+            <Field name="WriteOff" size="254" source="File: C:\Users\Khushi\OneDrive\Desktop\Stocks BS\Annual_Income-statement\MSFT_annual_financials.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="450" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_27692_c7fdb01aa36ff54080e261a70adfc788_\Engine_27692_ed2df78a5e0a794b9754701a59f924a3~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="450" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_27692_c7fdb01aa36ff54080e261a70adfc788_\Engine_27692_70dd37d47f603b4aac3db9ec5bdf9e1a~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="450" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_27692_c7fdb01aa36ff54080e261a70adfc788_\Engine_27692_e626c843ab96794c9b1bfbe9e72b5e5c~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="294" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="BasicEPS" selected="True" />
+            <SelectField field="EBIT" selected="True" />
+            <SelectField field="GrossProfit" selected="True" />
+            <SelectField field="InterestExpense" selected="True" />
+            <SelectField field="NetIncome" selected="True" />
+            <SelectField field="TotalRevenue" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="294" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="BasicEPS" selected="True" />
+            <SelectField field="EBIT" selected="True" />
+            <SelectField field="GrossProfit" selected="True" />
+            <SelectField field="InterestExpense" selected="True" />
+            <SelectField field="NetIncome" selected="True" />
+            <SelectField field="TotalRevenue" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="294" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="True" />
+            <SelectField field="BasicEPS" selected="True" />
+            <SelectField field="EBIT" selected="True" />
+            <SelectField field="GrossProfit" selected="True" />
+            <SelectField field="InterestExpense" selected="True" />
+            <SelectField field="NetIncome" selected="True" />
+            <SelectField field="TotalRevenue" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="366" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;AAPL&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "AAPL"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="366" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;AMZN&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "AMZN"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="366" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;META&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "META"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="366" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;MSFT&quot;" field="CompanyName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CompanyName = "MSFT"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="522" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="714" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Name2</InputFieldName>
+          <Language>English</Language>
+          <Format>MM/dd/yyyy</Format>
+          <OutputFieldName>Date</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Name2 From:
+MM/dd/yyyy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="594" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression><![CDATA[[Name2] != "ttm"
+]]></Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[[Name2] != "ttm"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="594" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_27692_c7fdb01aa36ff54080e261a70adfc788_\Engine_27692_295376f594e30844beb51b6b86c41098~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="810" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Text</FieldType>
+          <Fields orderChanged="False">
+            <Field name="EBIT" />
+            <Field name="GrossProfit" />
+            <Field name="InterestExpense" />
+            <Field name="NetIncome" />
+            <Field name="TotalRevenue" />
+            <Field name="Name2" selected="False" />
+            <Field name="BasicEPS" selected="False" />
+            <Field name="CompanyName" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <CopyOutput value="False" />
+          <Expression>REPLACE([_CurrentField_], ",", "")</Expression>
+          <ChangeFieldType value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>REPLACE([_CurrentField_], ",", "")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="894" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name2" selected="False" />
+            <SelectField field="Date" selected="True" />
+            <SelectField field="BasicEPS" selected="True" type="Double" size="8" />
+            <SelectField field="EBIT" selected="True" type="Int64" size="8" />
+            <SelectField field="GrossProfit" selected="True" type="Int64" size="8" />
+            <SelectField field="InterestExpense" selected="True" type="Int64" size="8" />
+            <SelectField field="NetIncome" selected="True" type="Int64" size="8" />
+            <SelectField field="TotalRevenue" selected="True" type="Int64" size="8" />
+            <SelectField field="CompanyName" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="966" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Date] &gt;= "2014-01-01"</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Date] &gt;= "2014-01-01"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1074" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="CompanyName" order="Ascending" />
+            <Field field="Date" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CompanyName - Ascending
+Date - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1194" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\Khushi\OneDrive\Desktop\Output.xlsx|||Annual_Income-statement</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Output.xlsx
+Query=Annual_Income-statement</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1134" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Khushi\AppData\Local\Temp\Engine_27692_c7fdb01aa36ff54080e261a70adfc788_\Engine_27692_841ea01442ccdc4bb096cf98573b2d13~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="True" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="False" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="True" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Income Statement workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="71cbe12f-1a53-4cc0-998d-53f9d86f63e1" />
+      <Telemetry>
+        <PreviousWorkflowId value="f81b4bc8-21a1-4afe-81be-e50e7e7271a5" />
+        <OriginWorkflowId value="f81b4bc8-21a1-4afe-81be-e50e7e7271a5" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
