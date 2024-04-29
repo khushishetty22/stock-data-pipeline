@@ -13,6 +13,10 @@ Logic Apps orchestrates the workflow, scheduling the Azure Functions and managin
 
 The data are persisted in Blob Storage, which acts as a data lake, holding the CSV files. Daily data is managed by Azure Functions, and Alteryx manages quarterly and annual updates.
 
+![image](https://github.com/khushishetty22/stock-data-pipeline/assets/79108604/a62d957f-e353-4b2b-a236-83880aeacf36)
+
+
+
 Azure Synapse Analytics plays a pivotal role in loading the CSV files from blob storage into SQL tables. Through a dedicated SQL pool, the data undergoes further transformations, ensuring it is primed for analysis.
 
 
